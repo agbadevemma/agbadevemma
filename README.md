@@ -9,11 +9,12 @@ I have experience designing production services, modernising legacy applications
 ### 🛠️ Tech Stack
 
 - **Languages:** Go, C#, Java, TypeScript
-- **Backend:** .NET Core, ASP.NET Core, Microservices, REST APIs, Fiber, Gin
+- **Backend:** .NET Core, ASP.NET Core, Node.js, Fiber, Gin, REST APIs
 - **Databases:** PostgreSQL, SQL Server, MySQL
-- **Cloud & Infrastructure:** AWS, Docker, Kubernetes, Redis, Graphana
-- **Messaging:** Kafka, RabbitMQ, SQS
-- **Engineering:** TDD, CI/CD, Trunk-Based Development, Automated Testing
+- **Cloud & Infrastructure:** AWS, Docker, Kubernetes, Redis
+- **Observability:** Grafana, Prometheus
+- **Messaging:** Kafka, RabbitMQ, Amazon SQS
+- **Engineering Practices:** TDD, CI/CD, Trunk-Based Development, Automated Testing
 
 ### ⚙️ Engineering Focus
 
@@ -24,7 +25,6 @@ I have experience designing production services, modernising legacy applications
 - Resilience patterns, idempotency and fault tolerance
 - Legacy system modernisation and API design
 - Observability, performance and production reliability
-
 
 ### 🤝 Let's Connect
 

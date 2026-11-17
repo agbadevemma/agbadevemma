@@ -1,36 +1,44 @@
 # Hi, I'm Emmanuel Olaniyi 👋
 
-### Software Engineer | Payments Engineering | Golang | Fintech
+### Senior Software Engineer | Payments | Distributed Systems | Go
 
-I'm a Software Engineer passionate about building reliable software, backend services, and financial technology solutions. I have experience working across frontend and backend development, with a growing focus on payment infrastructure and distributed systems.
+I'm a Backend Engineer passionate about designing and building reliable, scalable financial systems. I enjoy solving complex engineering challenges across payment infrastructure, distributed architectures, and high-throughput transactional systems.
 
-I'm particularly interested in how financial systems process transactions, manage money movement, and maintain reliability at scale.
+I have experience designing production services, modernising legacy applications, and building resilient APIs that support critical business operations. I care deeply about software quality, system reliability, and creating engineering foundations that enable teams to move faster.
 
 ### 🛠️ Tech Stack
 
-- **Languages:** Go, TypeScript, JavaScript
-- **Backend:** Node.js, Express.js, Gin, Fiber
-- **Frontend:** React, Next.js
-- **Databases:** PostgreSQL, Microsoft SQL Server
-- **Tools & Infrastructure:** Docker, Redis, Azure, Git
+- **Languages:** Go, C#, Java, TypeScript
+- **Backend:** .NET Core, ASP.NET Core, Microservices, REST APIs, Fiber, Gin
+- **Databases:** PostgreSQL, SQL Server, MySQL
+- **Cloud & Infrastructure:** AWS, Docker, Kubernetes, Redis, Graphana
+- **Messaging:** Kafka, RabbitMQ, SQS
+- **Engineering:** TDD, CI/CD, Trunk-Based Development, Automated Testing
 
-### 🔍 Areas of Interest
+### ⚙️ Engineering Focus
 
-- Payment Systems & Fintech Infrastructure
-- Distributed Systems & Microservices
-- Backend Engineering & API Design
-- Database Transactions & Concurrency
-- Ledgers, Reconciliation & Settlement
-- Software Architecture & System Design
+- Payment processing and financial infrastructure
+- Distributed systems and microservice architecture
+- Transaction integrity, ACID principles and database optimisation
+- Event-driven architecture and eventual consistency
+- Resilience patterns, idempotency and fault tolerance
+- Legacy system modernisation and API design
+- Observability, performance and production reliability
 
-### 🌱 Currently Exploring
+### 💡 Engineering Philosophy
 
-Building payment services with Go and deepening my understanding of transaction processing, idempotency, fault tolerance, and reliable financial systems.
+I believe great software engineering goes beyond writing code. It's about understanding business problems, making thoughtful architectural decisions, building maintainable systems, and creating solutions that deliver measurable value.
+
+I enjoy collaborating across engineering and product teams, mentoring developers, sharing knowledge, and continuously improving how software is designed and delivered.
+
+### 🌱 Always Learning
+
+Exploring better ways to build distributed financial systems, improve developer productivity, and leverage AI-assisted engineering workflows.
 
 ### 🤝 Let's Connect
 
-[GitHub](https://github.com/agbadevemma)
+Always open to conversations about software architecture, fintech, distributed systems, and building products that make a difference.
 
 ---
 
-*Building reliable systems that move money.*
+*Building reliable systems. Simplifying complexity. Making every transaction count.*

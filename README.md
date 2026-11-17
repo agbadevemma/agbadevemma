@@ -9,7 +9,7 @@ I'm particularly interested in how financial systems process transactions, manag
 ### 🛠️ Tech Stack
 
 - **Languages:** Go, TypeScript, JavaScript
-- **Backend:** Node.js, Express.js, Fiber
+- **Backend:** Node.js, Express.js, Gin, Fiber
 - **Frontend:** React, Next.js
 - **Databases:** PostgreSQL, Microsoft SQL Server
 - **Tools & Infrastructure:** Docker, Redis, Azure, Git

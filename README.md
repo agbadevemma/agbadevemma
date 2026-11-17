@@ -25,15 +25,6 @@ I have experience designing production services, modernising legacy applications
 - Legacy system modernisation and API design
 - Observability, performance and production reliability
 
-### 💡 Engineering Philosophy
-
-I believe great software engineering goes beyond writing code. It's about understanding business problems, making thoughtful architectural decisions, building maintainable systems, and creating solutions that deliver measurable value.
-
-I enjoy collaborating across engineering and product teams, mentoring developers, sharing knowledge, and continuously improving how software is designed and delivered.
-
-### 🌱 Always Learning
-
-Exploring better ways to build distributed financial systems, improve developer productivity, and leverage AI-assisted engineering workflows.
 
 ### 🤝 Let's Connect
 

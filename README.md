@@ -8,7 +8,7 @@ I have experience designing production services, modernising legacy applications
 
 ### 🛠️ Tech Stack
 
-- **Languages:** Go, C#, Java, TypeScript, Python
+- **Languages:** Go, C#, Java, TypeScript, Python, Django
 - **Backend:** .NET Core, ASP.NET Core, Node.js, Fiber, Gin, REST APIs
 - **Databases:** PostgreSQL, SQL Server, MySQL
 - **Cloud & Infrastructure:** AWS, Docker, Kubernetes, Redis

@@ -1,6 +1,6 @@
 # Hi, I'm Emmanuel Olaniyi 👋
 
-### Senior Software Engineer | Payments | Distributed Systems | Go
+### Senior Software Engineer | Payments | Distributed Systems | Go | Python
 
 I'm a Backend Engineer passionate about designing and building reliable, scalable financial systems. I enjoy solving complex engineering challenges across payment infrastructure, distributed architectures, and high-throughput transactional systems.
 
@@ -8,7 +8,7 @@ I have experience designing production services, modernising legacy applications
 
 ### 🛠️ Tech Stack
 
-- **Languages:** Go, C#, Java, TypeScript
+- **Languages:** Go, C#, Java, TypeScript, Python
 - **Backend:** .NET Core, ASP.NET Core, Node.js, Fiber, Gin, REST APIs
 - **Databases:** PostgreSQL, SQL Server, MySQL
 - **Cloud & Infrastructure:** AWS, Docker, Kubernetes, Redis
